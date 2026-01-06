@@ -33,6 +33,6 @@ The goal was to understand:
 - `.sql` – Data preparation scripts
 
 ## 🚀 Outcome
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/saas_dashboard1.png)
 This dashboard simulates a real-world SaaS analytics use case and demonstrates skills in data modeling, KPI design, and business storytelling.
 
